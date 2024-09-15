@@ -5,20 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e1aa70a1-0594-4e0c-b5c2-a8bda3165197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex-java-udesc-2024.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +39,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Ex10.executor": "Run",
     "Application.Ex2.executor": "Run",
     "Application.Ex3.executor": "Run",
     "Application.Ex4.executor": "Run",
@@ -55,8 +47,9 @@
     "Application.Ex6.executor": "Run",
     "Application.Ex7.executor": "Run",
     "Application.Ex8.executor": "Run",
+    "Application.Ex9.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
